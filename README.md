@@ -29,6 +29,9 @@ yarn dev
 ***
 ### Blog:
 
+* Auth0 + Next.js 12, ユーザー認証
+
+https://zenn.dev/knaka0209/articles/be741377b9fde6
 
 ***
 
